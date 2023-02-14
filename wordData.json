@@ -1,0 +1,6 @@
+
+{
+    "easy":["cat", "dog","hat"],
+    "medium": ["python", "house", "party"],
+    "hard":["elephant", "directory", "chocolate"]
+}
